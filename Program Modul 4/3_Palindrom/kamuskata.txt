@@ -1,0 +1,5 @@
+malam(5) : m=2 a=2 l=1 : Palindrom
+malam(5) : m=2 a=2 l=1 : Palindrom
+data(4) : d=1 a=2 t=1 : Bukan Palindrom
+malam(5) : m=2 a=2 l=1 : Palindrom
+sungaia(7) : s=1 u=1 n=1 g=1 a=2 i=1 : Bukan Palindrom
