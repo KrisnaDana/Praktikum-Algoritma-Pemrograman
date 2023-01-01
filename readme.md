@@ -12,7 +12,7 @@ Contains about basic programming, function, and procedure. Here is the following
 
 #### Program Modul 2
 
-contains about if statement and for loop. Here is the following programs:
+Contains about if statement and for loop. Here is the following programs:
 
 - [Menentukan Zodiak](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%202/1_Menentukan%20Zodiak)
 - [Nilai Akhir](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%202/2_Nilai%20Akhir)
@@ -40,6 +40,7 @@ Contains about struct and file operation. Here is the following programs:
 - [Palindrom](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/3_Palindrom)
 - [Data Mahasiswa](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/4_Data%20Mahasiswa)
 - [Ranking](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/5_Ranking)
+
 
 ## How to run the programs
 
