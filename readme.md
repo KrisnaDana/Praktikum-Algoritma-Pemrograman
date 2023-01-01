@@ -1,7 +1,5 @@
 # Praktikum-Algoritma-Pemrograman
 
----
-
 ## Table of Contents
 
 #### Program Modul 1
@@ -42,8 +40,6 @@ Contains about struct and file operation. Here is the following programs:
 - [Palindrom](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/3_Palindrom)
 - [Data Mahasiswa](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/4_Data%20Mahasiswa)
 - [Ranking](https://github.com/KrisnaDana/Praktikum-Algoritma-Pemrograman/tree/main/Program%20Modul%204/5_Ranking)
-
----
 
 ## How to run the programs
 
